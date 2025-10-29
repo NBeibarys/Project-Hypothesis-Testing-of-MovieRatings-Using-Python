@@ -14,7 +14,7 @@
 3. Week 3 - Creating the report; Any cleanup tasks; Combine code
 
 ### Key Insights (in-progress): 
-- Identified statistically significant gender-based differences in median ratings for 50 of 400 analyzed movies using a two-tailed Mann-Whitney U test and median difference calculations, revealing audience preference patterns that support targeted advertising, audience segmentation, and personalized recommendation models. (question 4)
+- Identified statistically significant gender-based differences in median ratings for 50 of 400 movies (12.5%) using the Mann-Whitney U test, revealing audience preference patterns that inform targeted advertising and audience segmentation.
 
 ### Ownership
 
