@@ -10,9 +10,8 @@
 ### Project Timeline
 
 1. Week 1 - Questions 3, 5, 7, 9, 1, 2 (questions are completed)
-2. Week 2 - Questions 4, 6, 8, 10, extra credit (question 8 completed)
+2. Week 2 - Questions 4, 6, 8, 10, extra credit (questions 4, 6, 8, 10 are completed)
 3. Week 3 - Creating the report; Any cleanup tasks; Combine code
-
 ### Ownership
 
 1. Luke: 1, 2
