@@ -28,7 +28,7 @@ To answer hypothesis 10 hypothesis testing questions and to cut down false posit
 - **Python**
 - **Jupyter Notebook**
 - **Non-parametric testing** (Mann-Whitney U, Kruskal-Wallis, Kolmogorov-Smirnov tests)
-- **EFfect size analysis** [(Cliff's delta)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Using%20Cliff%E2%80%99s%20Delta%20as%20a%20Non-Parametric%20Effect%20Size%20Measure.pdf)
+- **Effect size analysis** [(Cliff's delta)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Using%20Cliff%E2%80%99s%20Delta%20as%20a%20Non-Parametric%20Effect%20Size%20Measure.pdf)
   
 ## Project Members
 1. Joseph Tadros
