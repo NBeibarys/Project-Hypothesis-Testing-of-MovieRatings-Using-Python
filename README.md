@@ -1,10 +1,7 @@
 # Hypothesis Testing Project 
+In this project, we demonstrate core skills of hypothesis testing using real-world data. We aim to answer ten hypothesis questions about movie enjoyment patterns across different groups of viewers, and extend the analysis by evaluating additional statistical insights relevant for recommendation and audience segmentation. The dataset we use comes from a replication attempt of published research [(Wallisch & Whritner, 2017)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Wallisch%20%26%20Whritner%202017%20Movies%20-%20Copy.pdf), where participants rated a list of movies on an ordinal scale. Because the data is survey-based, observational, and strictly ordinal (0-4), non-parametric testing methods are used throughout the analysis.
 
-In this project, we demonstrate the essential skills involved in hypothesis testing. 
-We aim to answer 10 hypothesis questions and also provide additional statistical analysis relevant for building recommendation logic. 
-To do so, we will use a real dataset that stems from a replication attempt of published research [(Wallisch & Whritner, 2017)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Wallisch%20%26%20Whritner%202017%20Movies%20-%20Copy.pdf).
-
-To answer hypothesis testing questions and to cut down false positives, we set the per-test significance level 𝛼 to 0.005 (as per Benjamin et al., 2018).
+To answer hypothesis 10 hypothesis testing questions and to cut down false positives, we set the per-test significance level 𝛼 to 0.005 (as per Benjamin et al., 2018).
 
 ## Questions: 
 1) Are movies that are more popular (operationalized as having more ratings) rated higher than movies that are less popular? 
