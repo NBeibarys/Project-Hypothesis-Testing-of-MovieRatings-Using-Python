@@ -18,7 +18,7 @@ To answer hypothesis 10 hypothesis testing questions and to cut down false posit
 10) There are ratings on movies from several franchises ([‘Star Wars’, ‘Harry Potter’, ‘The Matrix’, ‘Indiana Jones’, ‘Jurassic Park’, ‘Pirates of the Caribbean’, ‘Toy Story’, ‘Batman’]) in this dataset. How many of these are of inconsistent quality, as experienced by viewers? 
 
 ## Project Structure: 
-- `analyses` - Jupyter notebook with code and analysis done, and project [paper](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/analyses/DSGA%20Project%201.pdf)
+- `analyses` - Jupyter notebook with code and analysis done, and project [paper](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/analyses/DSGA%20Project%201.pdf).
 - `data` - main dataset and additional data used for analysis.
 - `project_guidelines` - project guidelines and scientific papers used for analysis.
 - `src` - additional functions used during the analysis.
