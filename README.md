@@ -1,3 +1,5 @@
+[![Open the analysis paper](https://img.shields.io/badge/Open%20as-PDF-red.svg?logo=adobeacrobatreader)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/analyses/DSGA%20Project%201.pdf)
+
 # Hypothesis Testing Project 
 In this project, we demonstrate core skills of hypothesis testing using real-world data. We aim to answer ten hypothesis questions about movie enjoyment patterns across different groups of viewers, and extend the analysis by evaluating additional statistical insights relevant for recommendation and audience segmentation. The dataset we use comes from a replication attempt of published research [(Wallisch & Whritner, 2017)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Wallisch%20%26%20Whritner%202017%20Movies%20-%20Copy.pdf), where participants rated a list of movies on an ordinal scale. Because the data is survey-based, observational, and strictly ordinal (0-4), non-parametric testing methods are used throughout the analysis.
 
@@ -16,13 +18,13 @@ To answer hypothesis 10 hypothesis testing questions and to cut down false posit
 10) There are ratings on movies from several franchises ([‘Star Wars’, ‘Harry Potter’, ‘The Matrix’, ‘Indiana Jones’, ‘Jurassic Park’, ‘Pirates of the Caribbean’, ‘Toy Story’, ‘Batman’]) in this dataset. How many of these are of inconsistent quality, as experienced by viewers? 
 
 ## Project Structure: 
-- `analyses` - Jupyter notebook with code and analysis done.
+- `analyses` - Jupyter notebook with code and analysis done, and project [paper](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/analyses/DSGA%20Project%201.pdf)
 - `data` - main dataset and additional data used for analysis.
 - `project_guidelines` - project guidelines and scientific papers used for analysis.
 - `src` - additional functions used during the analysis.
   
-## Key Insights (in-progress): 
-- Identified statistically significant gender-based differences in median ratings for 50 of 400 movies (12.5%) using the Mann-Whitney U test, revealing audience preference patterns that inform targeted advertising and audience segmentation.
+## Key Insights : 
+- Identified statistically significant gender-based differences for 25 of 400 movies (6.25%) with the Kolmogorov-Smirnov test, then quantified practical impact using Cliff’s Delta, finding 6 medium effect movies that inform targeted advertising decisions. 
 
 ## Tools, Technologies, and Statistics:
 - **Python**
