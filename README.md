@@ -24,9 +24,6 @@ To answer hypothesis 10 hypothesis testing questions and reduce false positives,
 - `project_guidelines` - project guidelines and scientific papers used for analysis.
 - `src` - additional functions used during the analysis.
   
-## Key Insights : 
-- Identified statistically significant gender-based differences for 25 of 400 movies (6.25%) with the Kolmogorov-Smirnov test, then quantified practical impact using Cliff’s Delta, finding 6 medium effect movies that inform targeted advertising decisions. 
-
 ## Tools, Technologies, and Statistics:
 - **Python**
 - **Jupyter Notebook**
