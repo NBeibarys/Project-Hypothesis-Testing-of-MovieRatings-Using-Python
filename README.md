@@ -29,7 +29,15 @@ To answer hypothesis 10 hypothesis testing questions and reduce false positives,
 - **Jupyter Notebook**
 - **Non-parametric testing** (Mann-Whitney U, Kruskal-Wallis, Kolmogorov-Smirnov tests)
 - **Effect size analysis** [(Cliff's delta)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Using%20Cliff%E2%80%99s%20Delta%20as%20a%20Non-Parametric%20Effect%20Size%20Measure.pdf)
-  
+
+## How to Run
+1. Clone the repository. 
+2. Install dependencies with `pip install -r requirements.txt`
+3. Open `analyses\project_code.ipynb`
+4. Run all cells before Q1. This includes imports, helper functions, data loading, and preprocessing.
+5. After step 4, each question is independent.
+6. For any question QX, run all cells in that section starting from the cell that defines qX_df. Skipping that first cell breaks the rest of the section.
+
 ## Project Members
 1. Beibarys Nyussupov
 2. Joseph Tadros
