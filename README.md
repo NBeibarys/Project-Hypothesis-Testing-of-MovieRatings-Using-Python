@@ -2,9 +2,9 @@
 [![Open Notebook](https://img.shields.io/badge/Open-Jupyter-orange.svg?logo=jupyter)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/analyses/project_code.ipynb)
 
 # Hypothesis Testing Project 
-In this project, we demonstrate core skills of hypothesis testing using real-world data. We aim to answer ten hypothesis questions about movie enjoyment patterns across different groups of viewers, and extend the analysis by evaluating additional statistical insights relevant for recommendation and audience segmentation. The dataset we use comes from a replication attempt of published research [(Wallisch & Whritner, 2017)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Wallisch%20%26%20Whritner%202017%20Movies%20-%20Copy.pdf), where participants rated a list of movies on an ordinal scale. Because the data is survey-based, observational, and strictly ordinal (0-4), non-parametric testing methods are used throughout the analysis.
+In this project, I demonstrate core skills of hypothesis testing using real-world data. I aim to answer 10 hypothesis questions about movie enjoyment patterns across different groups of viewers and to extend the analysis by evaluating additional statistical insights relevant to recommendation and audience segmentation. The dataset used is a replication attempt of published research [(Wallisch & Whritner, 2017)](https://github.com/NBeibarys/Project-Hypothesis-Testing-of-MovieRatings-Using-Python/blob/main/project_guidelines/Wallisch%20%26%20Whritner%202017%20Movies%20-%20Copy.pdf), in which participants rated a list of movies on an ordinal scale. Because the data is survey-based, observational, and strictly ordinal (0-4), non-parametric testing methods are used throughout the analysis.
 
-To answer hypothesis 10 hypothesis testing questions and reduce false positives, we set the per-test significance level 𝛼 to 0.005 (as per Benjamin et al., 2018).
+To answer hypothesis-testing questions and reduce false positives, I set the per-test significance level 𝛼 to 0.005 (as per Benjamin et al., 2018).
 
 ## Questions: 
 1) Are movies that are more popular (operationalized as having more ratings) rated higher than movies that are less popular? 
